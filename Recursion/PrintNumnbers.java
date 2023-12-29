@@ -7,6 +7,7 @@ public class PrintNumnbers{
          }
          else{
             printBottomUp(n-1);
+            
             System.out.println(n);
          }
     }
